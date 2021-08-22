@@ -5,7 +5,7 @@ bio: My research interests include nanofabrication, photonics, neurotechnologies
   and implantable brain devices.
 interests:
   - Nanofabrication
-  - photonics
+  - Photonics
   - Neurotechnologies
   - Implantable brain devices
 social:

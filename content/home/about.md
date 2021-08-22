@@ -3,7 +3,7 @@ widget: about
 widget_id: Vittorino Lanzio
 headless: true
 weight: 20
-title: Biography
+title: ""
 active: true
 author: admin
 ---

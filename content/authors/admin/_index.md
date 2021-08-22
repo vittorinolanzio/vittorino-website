@@ -1,6 +1,6 @@
 ---
-title: Vittorino Lanzio
 role: Nanofabrication Engineer
+avatar_filename: img_0044.jpg
 bio: My research interests include nanofabrication, photonics, neurotechnologies
   and implantable brain devices.
 interests:
@@ -29,9 +29,10 @@ education:
       institution: Universite Paris-Saclay
     - course: Bsc Physical Engineering
       institution: Politecnico di Torino
-email: ""
 superuser: true
 highlight_name: false
+title: Vittorino Lanzio
+email: ""
 ---
 I am a nanofabrication engineer at Lawrence Berkeley National Lab. I work on designing, engineering, and fabricating microdevices. My research interests are at the intersection of semiconductor processing, photonics design and simulation, and packaging. I am passionate about working on the next generation of micro and nanotechnologies and their implementation for real-world devices.
 

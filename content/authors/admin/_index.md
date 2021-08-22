@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: vitto.lanzio@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=4MX-BVoAAAAJ&hl=en&oi=ao
